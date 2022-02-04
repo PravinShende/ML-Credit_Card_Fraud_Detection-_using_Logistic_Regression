@@ -38,6 +38,10 @@ from sklearn.metrics import accuracy_score
 
 
 ## Data Set Link:
+
+   data set are downloaded from the kaggle website.
+   
+   
 ## Funtion and Methods Used in Skeleton format:
 
 pd.read_csv()
