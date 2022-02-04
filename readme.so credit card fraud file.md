@@ -44,6 +44,9 @@ from sklearn.metrics import accuracy_score
    
 ## Funtion and Methods Used in Skeleton format:
 
+        Function and Methods help to analyse the data .
+        and help to follow the forward path .
+
 pd.read_csv()
 
 .head()
